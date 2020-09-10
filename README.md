@@ -1,4 +1,4 @@
-#Soteria
+# Soteria
 View the whole project on [Devpost!](https://devpost.com/software/soteria-r5lbum)
 > Won third overall at HowdyHack2020!
 > Also won 1st overall in the beginner category!
